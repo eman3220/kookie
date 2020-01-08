@@ -1,0 +1,22 @@
+.SocialMediaBar {
+  position: fixed;
+  bottom: 5px;
+  width: 100%;
+  white-space: nowrap;
+  z-index: 0;
+}
+
+.SocialMediaIcon {
+  padding: 10px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:20px;
+  padding-right:20px;
+  height:4.5vh;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.SocialMediaIcon:hover {
+  background-color: rgb(160,160,160);
+}
