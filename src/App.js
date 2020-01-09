@@ -4,6 +4,7 @@ import { ThemeProvider } from '@material-ui/core/styles';
 import './App.css';
 import { createMuiTheme } from '@material-ui/core/styles';
 import StartGlyph from './StartGlyph/StartGlyph';
+import Banner from './Banner/Banner';
 
 function App() {
   const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)');
@@ -52,6 +53,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <div className="App">
+        <Banner />
         <StartGlyph />
       </div>
     </ThemeProvider>
