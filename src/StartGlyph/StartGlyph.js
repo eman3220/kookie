@@ -32,7 +32,7 @@ function StartGlyph() {
           <div className="StartGlyphContent noselect centerish">
             <img className="logo" src={logo} alt="Logo" />
             <Typography>
-              Click to start!
+              Click to start
             </Typography>
           </div>
           <div className="StartGlyph centerish" onClick={handleGlyphClick} />
