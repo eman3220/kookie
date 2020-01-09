@@ -170,7 +170,7 @@ const DropForm = (props) => {
             <StepContent>
               <Typography variant="body2">Let's get straight to the point.</Typography>
               <br />
-              <Typography variant="body2">You're here because you found out about our luxurious cookies.</Typography>
+              <Typography variant="body2">You're here because you found out about our cookies.</Typography>
               <br />
               <Typography variant="body2">You've come to the right place so let's jump straight into it.</Typography>
               <br />
