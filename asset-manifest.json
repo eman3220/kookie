@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kookie/static/css/main.e5c4b854.chunk.css",
-    "main.js": "/kookie/static/js/main.8d01f61f.chunk.js",
-    "main.js.map": "/kookie/static/js/main.8d01f61f.chunk.js.map",
+    "main.js": "/kookie/static/js/main.67834c51.chunk.js",
+    "main.js.map": "/kookie/static/js/main.67834c51.chunk.js.map",
     "runtime-main.js": "/kookie/static/js/runtime-main.684f3448.js",
     "runtime-main.js.map": "/kookie/static/js/runtime-main.684f3448.js.map",
     "static/js/2.3660cb91.chunk.js": "/kookie/static/js/2.3660cb91.chunk.js",
     "static/js/2.3660cb91.chunk.js.map": "/kookie/static/js/2.3660cb91.chunk.js.map",
     "index.html": "/kookie/index.html",
-    "precache-manifest.8d1f048fb995b0efbc4b708d95067d77.js": "/kookie/precache-manifest.8d1f048fb995b0efbc4b708d95067d77.js",
+    "precache-manifest.700e92f5896692c261033c4b1fe5711c.js": "/kookie/precache-manifest.700e92f5896692c261033c4b1fe5711c.js",
     "service-worker.js": "/kookie/service-worker.js",
     "static/css/main.e5c4b854.chunk.css.map": "/kookie/static/css/main.e5c4b854.chunk.css.map",
     "static/js/2.3660cb91.chunk.js.LICENSE": "/kookie/static/js/2.3660cb91.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.684f3448.js",
     "static/js/2.3660cb91.chunk.js",
     "static/css/main.e5c4b854.chunk.css",
-    "static/js/main.8d01f61f.chunk.js"
+    "static/js/main.67834c51.chunk.js"
   ]
 }
